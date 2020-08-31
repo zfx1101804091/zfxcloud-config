@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active:
+      - dev
+config:
+  info: 1.2.0
+
+
+      
+#注意保存为UTF-8格式
+

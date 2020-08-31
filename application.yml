@@ -2,6 +2,8 @@ spring:
   profiles:
     active:
       - dev
+config:
+  info: 1.2.0
 
 
       
